@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ahnsugyeong/Desktop/2023/Algorithm/ProblemSolving/2023-january/2023_01_01/2146.cpp
+bits/stdc++.h
+-
+
