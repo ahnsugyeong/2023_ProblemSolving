@@ -8,38 +8,38 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/Users/ahnsugyeong/Desktop/2023/Algorithm/ProblemSolving/cmake-build-debug"/>
+				<Option working_dir="/Users/ahnsugyeong/Desktop/2023/Algorithm/2023_ProblemSolving/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j12 -f &quot;/Users/ahnsugyeong/Desktop/2023/Algorithm/ProblemSolving/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/ahnsugyeong/Desktop/2023/Algorithm/ProblemSolving/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j12 -f &quot;/Users/ahnsugyeong/Desktop/2023/Algorithm/ProblemSolving/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/ahnsugyeong/Desktop/2023/Algorithm/ProblemSolving/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/ahnsugyeong/Desktop/2023/Algorithm/2023_ProblemSolving/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/ahnsugyeong/Desktop/2023/Algorithm/2023_ProblemSolving/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/ahnsugyeong/Desktop/2023/Algorithm/2023_ProblemSolving/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/ahnsugyeong/Desktop/2023/Algorithm/2023_ProblemSolving/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/Users/ahnsugyeong/Desktop/2023/Algorithm/ProblemSolving/cmake-build-debug"/>
+				<Option working_dir="/Users/ahnsugyeong/Desktop/2023/Algorithm/2023_ProblemSolving/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j12 -f &quot;/Users/ahnsugyeong/Desktop/2023/Algorithm/ProblemSolving/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/ahnsugyeong/Desktop/2023/Algorithm/ProblemSolving/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j12 -f &quot;/Users/ahnsugyeong/Desktop/2023/Algorithm/ProblemSolving/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/ahnsugyeong/Desktop/2023/Algorithm/ProblemSolving/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/ahnsugyeong/Desktop/2023/Algorithm/2023_ProblemSolving/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/ahnsugyeong/Desktop/2023/Algorithm/2023_ProblemSolving/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/ahnsugyeong/Desktop/2023/Algorithm/2023_ProblemSolving/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/ahnsugyeong/Desktop/2023/Algorithm/2023_ProblemSolving/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/Users/ahnsugyeong/Desktop/2023/Algorithm/ProblemSolving/cmake-build-debug"/>
+				<Option working_dir="/Users/ahnsugyeong/Desktop/2023/Algorithm/2023_ProblemSolving/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j12 -f &quot;/Users/ahnsugyeong/Desktop/2023/Algorithm/ProblemSolving/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/ahnsugyeong/Desktop/2023/Algorithm/ProblemSolving/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j12 -f &quot;/Users/ahnsugyeong/Desktop/2023/Algorithm/ProblemSolving/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/ahnsugyeong/Desktop/2023/Algorithm/ProblemSolving/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/ahnsugyeong/Desktop/2023/Algorithm/2023_ProblemSolving/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/ahnsugyeong/Desktop/2023/Algorithm/2023_ProblemSolving/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/ahnsugyeong/Desktop/2023/Algorithm/2023_ProblemSolving/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/ahnsugyeong/Desktop/2023/Algorithm/2023_ProblemSolving/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="ProblemSolving">
-				<Option output="/Users/ahnsugyeong/Desktop/2023/Algorithm/ProblemSolving/cmake-build-debug/ProblemSolving" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/ahnsugyeong/Desktop/2023/Algorithm/ProblemSolving/cmake-build-debug"/>
+				<Option output="/Users/ahnsugyeong/Desktop/2023/Algorithm/2023_ProblemSolving/cmake-build-debug/ProblemSolving" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ahnsugyeong/Desktop/2023/Algorithm/2023_ProblemSolving/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -52,15 +52,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j12 -f &quot;/Users/ahnsugyeong/Desktop/2023/Algorithm/ProblemSolving/cmake-build-debug/Makefile&quot;  VERBOSE=1 ProblemSolving"/>
-					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/ahnsugyeong/Desktop/2023/Algorithm/ProblemSolving/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j12 -f &quot;/Users/ahnsugyeong/Desktop/2023/Algorithm/ProblemSolving/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/ahnsugyeong/Desktop/2023/Algorithm/ProblemSolving/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/ahnsugyeong/Desktop/2023/Algorithm/2023_ProblemSolving/cmake-build-debug/Makefile&quot;  VERBOSE=1 ProblemSolving"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/ahnsugyeong/Desktop/2023/Algorithm/2023_ProblemSolving/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/ahnsugyeong/Desktop/2023/Algorithm/2023_ProblemSolving/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/ahnsugyeong/Desktop/2023/Algorithm/2023_ProblemSolving/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="ProblemSolving/fast">
-				<Option output="/Users/ahnsugyeong/Desktop/2023/Algorithm/ProblemSolving/cmake-build-debug/ProblemSolving" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/ahnsugyeong/Desktop/2023/Algorithm/ProblemSolving/cmake-build-debug"/>
+				<Option output="/Users/ahnsugyeong/Desktop/2023/Algorithm/2023_ProblemSolving/cmake-build-debug/ProblemSolving" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ahnsugyeong/Desktop/2023/Algorithm/2023_ProblemSolving/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -73,17 +73,17 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j12 -f &quot;/Users/ahnsugyeong/Desktop/2023/Algorithm/ProblemSolving/cmake-build-debug/Makefile&quot;  VERBOSE=1 ProblemSolving/fast"/>
-					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/ahnsugyeong/Desktop/2023/Algorithm/ProblemSolving/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j12 -f &quot;/Users/ahnsugyeong/Desktop/2023/Algorithm/ProblemSolving/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/ahnsugyeong/Desktop/2023/Algorithm/ProblemSolving/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/ahnsugyeong/Desktop/2023/Algorithm/2023_ProblemSolving/cmake-build-debug/Makefile&quot;  VERBOSE=1 ProblemSolving/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/ahnsugyeong/Desktop/2023/Algorithm/2023_ProblemSolving/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/ahnsugyeong/Desktop/2023/Algorithm/2023_ProblemSolving/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/ahnsugyeong/Desktop/2023/Algorithm/2023_ProblemSolving/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/ahnsugyeong/Desktop/2023/Algorithm/ProblemSolving/2023-january/2023_01_09/14503.cpp">
+		<Unit filename="/Users/ahnsugyeong/Desktop/2023/Algorithm/2023_ProblemSolving/2023-january/2023_01_17/1182.cpp">
 			<Option target="ProblemSolving"/>
 		</Unit>
-		<Unit filename="/Users/ahnsugyeong/Desktop/2023/Algorithm/ProblemSolving/CMakeLists.txt">
+		<Unit filename="/Users/ahnsugyeong/Desktop/2023/Algorithm/2023_ProblemSolving/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>
