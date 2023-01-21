@@ -1,6 +1,6 @@
 // programmers week1-1
 // 택배 배달과 수거하기
-// 실패 (2/10)
+// 실패 (2/20)
 
 #include <bits/stdc++.h>
 
