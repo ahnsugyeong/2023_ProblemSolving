@@ -143,32 +143,32 @@ ProblemSolving/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ProblemSolving.dir/build.make CMakeFiles/ProblemSolving.dir/build
 .PHONY : ProblemSolving/fast
 
-2023-january/2023_01_17/1182.o: 2023-january/2023_01_17/1182.cpp.o
+2023-march/2023_03_02/week6-3.o: 2023-march/2023_03_02/week6-3.cpp.o
 
-.PHONY : 2023-january/2023_01_17/1182.o
+.PHONY : 2023-march/2023_03_02/week6-3.o
 
 # target to build an object file
-2023-january/2023_01_17/1182.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ProblemSolving.dir/build.make CMakeFiles/ProblemSolving.dir/2023-january/2023_01_17/1182.cpp.o
-.PHONY : 2023-january/2023_01_17/1182.cpp.o
+2023-march/2023_03_02/week6-3.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ProblemSolving.dir/build.make CMakeFiles/ProblemSolving.dir/2023-march/2023_03_02/week6-3.cpp.o
+.PHONY : 2023-march/2023_03_02/week6-3.cpp.o
 
-2023-january/2023_01_17/1182.i: 2023-january/2023_01_17/1182.cpp.i
+2023-march/2023_03_02/week6-3.i: 2023-march/2023_03_02/week6-3.cpp.i
 
-.PHONY : 2023-january/2023_01_17/1182.i
+.PHONY : 2023-march/2023_03_02/week6-3.i
 
 # target to preprocess a source file
-2023-january/2023_01_17/1182.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ProblemSolving.dir/build.make CMakeFiles/ProblemSolving.dir/2023-january/2023_01_17/1182.cpp.i
-.PHONY : 2023-january/2023_01_17/1182.cpp.i
+2023-march/2023_03_02/week6-3.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ProblemSolving.dir/build.make CMakeFiles/ProblemSolving.dir/2023-march/2023_03_02/week6-3.cpp.i
+.PHONY : 2023-march/2023_03_02/week6-3.cpp.i
 
-2023-january/2023_01_17/1182.s: 2023-january/2023_01_17/1182.cpp.s
+2023-march/2023_03_02/week6-3.s: 2023-march/2023_03_02/week6-3.cpp.s
 
-.PHONY : 2023-january/2023_01_17/1182.s
+.PHONY : 2023-march/2023_03_02/week6-3.s
 
 # target to generate assembly for a file
-2023-january/2023_01_17/1182.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ProblemSolving.dir/build.make CMakeFiles/ProblemSolving.dir/2023-january/2023_01_17/1182.cpp.s
-.PHONY : 2023-january/2023_01_17/1182.cpp.s
+2023-march/2023_03_02/week6-3.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ProblemSolving.dir/build.make CMakeFiles/ProblemSolving.dir/2023-march/2023_03_02/week6-3.cpp.s
+.PHONY : 2023-march/2023_03_02/week6-3.cpp.s
 
 # Help Target
 help:
@@ -179,9 +179,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... ProblemSolving"
-	@echo "... 2023-january/2023_01_17/1182.o"
-	@echo "... 2023-january/2023_01_17/1182.i"
-	@echo "... 2023-january/2023_01_17/1182.s"
+	@echo "... 2023-march/2023_03_02/week6-3.o"
+	@echo "... 2023-march/2023_03_02/week6-3.i"
+	@echo "... 2023-march/2023_03_02/week6-3.s"
 .PHONY : help
 
 
