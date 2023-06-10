@@ -3,4 +3,4 @@ project(ProblemSolving)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(ProblemSolving 2023-june/2023_06_02/13460_review.cpp)
+add_executable(ProblemSolving "2023-june/2023_06_10/12100(6%실패).cpp")
