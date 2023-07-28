@@ -6,7 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/Users/ahnsugyeong/Desktop/2023/Algorithm/2023_ProblemSolving/2023-july/2023_07_27/16235.cpp
-bits/stdc++.h
+/Users/ahnsugyeong/Desktop/2023/Algorithm/2023_ProblemSolving/2023-july/2023_07_28/scpc_2(시간초과).cpp
+iostream
+-
+vector
+-
+algorithm
 -
 

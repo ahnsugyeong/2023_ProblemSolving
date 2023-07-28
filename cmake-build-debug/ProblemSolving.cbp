@@ -80,7 +80,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/ahnsugyeong/Desktop/2023/Algorithm/2023_ProblemSolving/2023-july/2023_07_27/16235.cpp">
+		<Unit filename="/Users/ahnsugyeong/Desktop/2023/Algorithm/2023_ProblemSolving/2023-july/2023_07_28/scpc_2(시간초과).cpp">
 			<Option target="ProblemSolving"/>
 		</Unit>
 		<Unit filename="/Users/ahnsugyeong/Desktop/2023/Algorithm/2023_ProblemSolving/CMakeLists.txt">
