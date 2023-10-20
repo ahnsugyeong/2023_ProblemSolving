@@ -4,6 +4,7 @@
 using namespace std;
 
 vector<int> getPrefixSum(const vector<int> &numbers);
+
 int getIntervalSum(const vector<int> &prefixSum, int begin, int end);
 
 int main() {
@@ -30,7 +31,7 @@ int main() {
     return 0;
 }
 
-vector<int> getPrefixSum(const vector<int>& numbers) {
+vector<int> getPrefixSum(const vector<int> &numbers) {
     int n = numbers.size();
     vector<int> prefixSum(n, 0);
     prefixSum[0] = numbers[0];
@@ -41,7 +42,7 @@ vector<int> getPrefixSum(const vector<int>& numbers) {
     return prefixSum;
 }
 
-int getIntervalSum(const vector<int>& prefixSum, int begin, int end) {
+int getIntervalSum(const vector<int> &prefixSum, int begin, int end) {
     if (begin == 1) {
         return prefixSum[end - 1];
     }
