@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/Users/ahnsugyeong/Desktop/2023/Algorithm/2023_ProblemSolving/2023-october/2023_10_20/11660.cpp" "CMakeFiles/ProblemSolving.dir/2023-october/2023_10_20/11660.cpp.o" "gcc" "CMakeFiles/ProblemSolving.dir/2023-october/2023_10_20/11660.cpp.o.d"
+  "/Users/ahnsugyeong/Desktop/2023/Algorithm/2023_ProblemSolving/2023-october/2023_10_27/1940.cpp" "CMakeFiles/ProblemSolving.dir/2023-october/2023_10_27/1940.cpp.o" "gcc" "CMakeFiles/ProblemSolving.dir/2023-october/2023_10_27/1940.cpp.o.d"
   )
 
 # Targets to which this target links.
