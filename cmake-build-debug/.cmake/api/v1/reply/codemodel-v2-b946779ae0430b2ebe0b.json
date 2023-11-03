@@ -6,7 +6,6 @@
 			[
 				{
 					"build" : ".",
-					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.17"
@@ -39,7 +38,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "ProblemSolving::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-ProblemSolving-Debug-a5cbc115bebebe2bcbc8.json",
+					"jsonFile" : "target-ProblemSolving-Debug-48909115808539b31c5b.json",
 					"name" : "ProblemSolving",
 					"projectIndex" : 0
 				}
@@ -55,6 +54,6 @@
 	"version" : 
 	{
 		"major" : 2,
-		"minor" : 3
+		"minor" : 0
 	}
 }
