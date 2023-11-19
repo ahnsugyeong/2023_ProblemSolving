@@ -3,4 +3,4 @@ project(ProblemSolving)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(ProblemSolving "2023-november/2023_11_17/17143.cpp")
+add_executable(ProblemSolving "2023-november/2023_11_19/2164.cpp")
