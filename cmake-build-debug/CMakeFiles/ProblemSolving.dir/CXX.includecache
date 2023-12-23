@@ -6,9 +6,13 @@
 
 #IncludeRegexTransform: 
 
-/Users/ahnsugyeong/Desktop/2023/Algorithm/2023_ProblemSolving/2023-november/2023_11_14/17144(실패).cpp
+/Users/ahnsugyeong/Desktop/2023/Algorithm/2023_ProblemSolving/2023-december/2023_12_24/17142.cpp
 iostream
 -
+vector
+-
 queue
+-
+climits
 -
 
